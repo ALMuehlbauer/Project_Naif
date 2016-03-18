@@ -9,7 +9,6 @@ class User{
     private $_ausbildungYear;
     private $_ausbildungType;
     private $_picture;
-    private $_score;
 
     /**
      * User constructor.
